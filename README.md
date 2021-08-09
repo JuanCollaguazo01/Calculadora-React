@@ -1,3 +1,3 @@
 # Calculadora-React
-Juan Collaguazo 
-El Funcionamiento de de la calculadora
+##Juan Collaguazo 
+- Funcionamiento de de la calculadora al correr la aplicación
